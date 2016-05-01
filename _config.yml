@@ -162,7 +162,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: default
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
@@ -173,7 +173,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: splash
       author_profile: true
       share: true
       related: true
@@ -182,7 +182,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: true
 
