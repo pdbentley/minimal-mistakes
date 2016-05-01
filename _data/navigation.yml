@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /recipes-archive/
 
-  - title: "Home"
-    url: /home/
+  - title: "Posts"
+    url: /category-archive/
 
   - title: "Portfolio"
     url: /portfolio-archive/
