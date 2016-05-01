@@ -154,9 +154,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  pages:
-    output: true
-    permalink: /:collection/:path/
+
 #defaults
 defaults:
   # _posts
