@@ -2,7 +2,7 @@
 # main links links
 main:
   - title: "Spaghetti Monster"
-    url: /home/
+    url: /spaghetti/
 
   - title: "Posts"
     url: /posts/
@@ -11,7 +11,7 @@ main:
     url: /pages/
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio-archive/
 
   - title: "Purple Monkeys"
     url: https://au.pinterest.com/pin/403564816585254078/
