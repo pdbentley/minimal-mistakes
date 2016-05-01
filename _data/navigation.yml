@@ -1,16 +1,16 @@
 # main links links
 main:
+ - title: "Spagetthi Monster"
+    url: /splash-page/
+    
   - title: "Projects"
-    url: /projects/
+    url: /recipes-archive/
 
-  - title: "Posts"
-    url: /posts/
-
-  - title: "Pages"
-    url: /pages/
+  - title: "Home"
+    url: /home/
 
   - title: "Portfolio"
-    url: /pages/portfolio-archive/
+    url: /portfolio-archive/
 
   - title: "Purple Monkeys"
     url: https://au.pinterest.com/pin/403564816585254078/
