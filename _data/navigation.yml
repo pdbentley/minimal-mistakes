@@ -1,10 +1,5 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /recipes-archive/
-
-  - title: "Posts"
-    url: /category-archive/
 
   - title: "Portfolio"
     url: /portfolio-archive/
